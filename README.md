@@ -18,7 +18,7 @@ Before running the project, you need to have the following installed:
 - Node.js
 - npm  
 - Firebase account and project  
-- Edit redux/actions/firebase.ts with your firebase project settings auth data
+- Edit redux/actions/firebase.ts with your firebase project settings auth data (enable google login as auth in your firebase project)
 
 ### Install dependencies
 
